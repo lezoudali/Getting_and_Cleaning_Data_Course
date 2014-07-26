@@ -1,7 +1,7 @@
 Getting and Cleaning Data Project 
 =================================
 
-*A full description of the data collected for this analysis can be obtained at:
+#A full description of the data collected for this analysis can be obtained at:
 
 	-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
