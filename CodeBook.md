@@ -1,15 +1,15 @@
 Getting and Cleaning Data Project 
 =================================
 
-#A full description of the data collected for this analysis can be obtained at:
+###A full description of the data collected for this analysis can be obtained at:
 
 	-http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-*A copy of the raw data can be found at:
+###A copy of the raw data can be found at:
 
 	-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-*Data set information:
+###Data set information:
 
 	-The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. 
 
@@ -17,9 +17,9 @@ Getting and Cleaning Data Project
 
 	-Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz.
 
-*I extracted all the columns with either mean() or std() in their column names. 
+###I extracted all the columns with either mean() or std() in their column names. 
 
-*List of Variables from the tidy data set:
+###List of Variables from the tidy data set:
 
 	- X, Y or Z represent the 3-axial
 	- Mean and StdDev represent the measurements on the mean and standard deviation for each measurement.
